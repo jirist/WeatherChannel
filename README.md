@@ -4,10 +4,10 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 4, 2018
 
 ### Student Name:  
-(First and Last Name)
+Jiri Stanc
 
 ### Project Description:
 (In your own words, briefly describe the assignment.)
