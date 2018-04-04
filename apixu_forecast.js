@@ -88,7 +88,7 @@
 
         $(document).ready(function(){
            $(':button').click(function(){
-                var message = 'q=' + $('#searchValue').val()+'&days=3';   
+                var message = 'q=' + $('#searchValue').val()+'&days=10';   
                 $.ajax({
                       type: 'GET',
                       url: 'https://api.apixu.com/v1/forecast.json?key=3383928e1cad4e3584945748180404',
