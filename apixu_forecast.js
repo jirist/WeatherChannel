@@ -1,8 +1,8 @@
 /*
     Program Name:   Seminole Weather Channel
     Author:         Jiri Stanc
-    Date:           April 4, 2018
-    Filename:   apixu_forecast.js
+    Date:           April 5, 2018
+    Filename:       apixu_forecast.js
 */
 
 
